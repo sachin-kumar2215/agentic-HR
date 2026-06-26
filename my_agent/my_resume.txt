@@ -1,0 +1,5 @@
+Name: Sachin
+Experience: 3 years Python development
+Skills: Python, Flask, MySQL, Docker, basic AWS
+Projects: Built REST APIs with Flask, deployed on EC2
+Education: B.Tech Computer Science

@@ -1,0 +1,11 @@
+Company: TechCorp
+Role: Senior Python Backend Engineer
+Requirements:
+- 5+ years Python experience
+- FastAPI or Django
+- PostgreSQL and Redis
+- Docker and Kubernetes
+- AWS experience preferred
+- Experience with microservices
+- Strong communication skills
+Salary: Competitive
